@@ -134,6 +134,7 @@ const translations = {
         backToDashboard: 'Back to Dashboard',
         configureLocalModels: 'Configure and run AI models locally on your machine',
         // Cloud Provider Descriptions 云端供应商描述
+        noProvidersEnabled: 'No providers are currently enabled. Please enable at least one provider in the settings to start using the chat.',
         providerDescAnthropic: 'Access Claude and other Anthropic models',
         providerDescGithub: 'Use OpenAI models hosted through GitHub infrastructure',
         providerDescOpenAI: 'Use GPT-4, GPT-3.5, and other OpenAI models',
